@@ -1,24 +1,26 @@
-<!-- 🔥 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Arman%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<!-- 🔥 Animated Header with Dark Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Arman%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 
-<h3 align="center">🚀 Front-End Developer | IT Student</h3>
+<h3 align="center" style="color:gray;">Front-End Developer | IT Student</h3>
 
 ---
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=25&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+Learner;JavaScript+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&size=25&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+Learner;JavaScript+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
+<div style="background-color:#121212; padding:20px; border-radius:10px; color:white;">
 - 🎓 IT Student  
 - 💻 Front-End Developer  
 - 🌱 Learning React & Tailwind CSS  
 - ⚡ Love building modern UI  
 - 🚀 Focused on growth and skills  
+</div>
 
 ---
 
@@ -29,16 +31,16 @@
 
 ---
 
-
+## 📂 Projects
+<div style="background-color:#1a1a1a; padding:20px; border-radius:10px; color:white;">
+- 🔹 Portfolio project 
+- 🔹 JavaScript Projects  
+- 🔹 React Apps  
+</div>
 
 ---
 
-## 📂 Featured Projects
-<p align="center">
-  🔹 Netflix clone <br>
-  🔹 JavaScript Projects <br>
-  🔹 React Apps  
-</p>
+
 
 ---
 
@@ -51,6 +53,5 @@
 
 ---
 
-<!-- 🔥 Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
-
+<!-- 🔥 Footer Wave Dark -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer"/>
