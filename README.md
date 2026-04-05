@@ -1,49 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Arman%20Ali&fontSize=40&fontColor=ffffff"/>
-<h1 align="center">Hi 👋, I'm Arman Ali</h1>
-<h3 align="center">Front-End Developer | IT Student</h3>
+<!-- 🔥 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Arman%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+
+<h3 align="center">🚀 Front-End Developer | IT Student</h3>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 I am an IT student  
-- 💻 I am a Front-End Developer  
-- 🌱 Currently learning React & Tailwind CSS  
-- ⚡ I love building responsive and user-friendly websites  
-- 🚀 Always learning new technologies  
-
----
-
-## 🛠️ Skills
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=25&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+Learner;JavaScript+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 📂 Projects
-- 🔹 Portfolio Website  
-- 🔹 JavaScript Apps  
-- 🔹 React Basic Projects  
+## 👨‍💻 About Me
+- 🎓 IT Student  
+- 💻 Front-End Developer  
+- 🌱 Learning React & Tailwind CSS  
+- ⚡ Love building modern UI  
+- 🚀 Focused on growth and skills  
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,vscode" />
+</p>
+
+---
+
+
+
+---
+
+## 📂 Featured Projects
+<p align="center">
+  🔹 Netflix clone <br>
+  🔹 JavaScript Projects <br>
+  🔹 React Apps  
+</p>
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/armanali345">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Optional)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armanali345&show_icons=true&theme=tokyonight" />
-</p>
+<!-- 🔥 Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
 
----
-
-## ⭐ Quote
-<p align="center">
-  <i>"Code. Learn. Improve. Repeat."</i>
-</p>
